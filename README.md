@@ -85,3 +85,14 @@ If you use this work in your research, please cite:
   year={2025},
   url={https://github.com/diptiman-mohanta/Radar-Based-UAV-Classification}
 }
+```
+# Dataset
+
+```bibtex
+@data{1x2q-8v62-22,
+doi = {10.21227/1x2q-8v62},
+url = {https://dx.doi.org/10.21227/1x2q-8v62},
+author = {Harish Chandra Kumawat and Mainak Chakraborty and A. Arockia Bazil Raj and Sunita Vikrant Dhavale},
+publisher = {IEEE Dataport},
+title = {DIAT-µSAT: micro-Doppler Signature Dataset of Small Unmanned Aerial Vehicle (SUAV)},
+year = {2022} }
