@@ -1,4 +1,4 @@
-# Radar-Based UAV Classification System
+![image](https://github.com/user-attachments/assets/106a473c-a4f2-404a-be82-c4ca6b9ba9ce)# Radar-Based UAV Classification System
 A sophisticated radar-based object classification system that distinguishes between UAVs (drones), birds, RC aircraft, and mixed scenarios using advanced signal processing techniques and deep learning.
 # Topics/Tags
 radar-signal-processing
@@ -36,6 +36,8 @@ Multi-class Classification: Distinguishes between drones, birds, RC planes, and 
 Automated Pipeline: End-to-end processing from raw radar data to classification result
 
 # Methodology
+![image](https://github.com/user-attachments/assets/106a473c-a4f2-404a-be82-c4ca6b9ba9ce)
+
 Signal Processing Pipeline
 
 Preprocessing: Downsampling, resampling, and low-pass filtering
