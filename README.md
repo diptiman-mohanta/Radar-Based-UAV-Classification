@@ -84,7 +84,7 @@ If you use this work in your research, please cite:
   title={Radar-Based UAV Classification using SVMD and Deep Learning},
   author={Diptiman Mohanta},
   year={2025},
-  url={https://github.com/diptiman-mohanta/Radar-Based-UAV-Classification}
+  url={https://github.com/diptiman-mohanta/Radar-Based-UAV-Classification.git}
 }
 ```
 # Dataset
