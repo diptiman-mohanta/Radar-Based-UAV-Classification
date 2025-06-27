@@ -81,8 +81,8 @@ If you use this work in your research, please cite:
 
 ```bibtex
 @misc{radar_uav_classification,
-  title={Radar-Based UAV Classification using SVMD and Deep Learning},
-  author={Diptiman Mohanta},
+  title={Radar-Based UAV Classification using SVMD, Spectogram and Deep Learning},
+  author={Diptiman Mohanta and Akash S R and Shekh Sharfraj and Krishna Jyoti Panda and Arpita Pradhan and Jyotirmayee Patnaik},
   year={2025},
   url={https://github.com/diptiman-mohanta/Radar-Based-UAV-Classification.git}
 }
