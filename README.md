@@ -1,28 +1,4 @@
 A sophisticated radar-based object classification system that distinguishes between UAVs (drones), birds, RC aircraft, and mixed scenarios using advanced signal processing techniques and deep learning.
-# Topics/Tags
-radar-signal-processing
-
-uav-detection
-
-svmd
-
-variational-mode-decomposition
-
-spectrogram-analysis
-
-matlab
-
-deep-learning
-
-squeezenet
-
-object-classification
-
-drone-detection
-
-signal-processing
-
-time-frequency-analysis
 # Features
 Advanced Signal Processing: Implementation of Successive Variational Mode Decomposition (SVMD) for superior signal analysis
 
