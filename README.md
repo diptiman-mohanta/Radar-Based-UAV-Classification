@@ -13,7 +13,15 @@ Automated Pipeline: End-to-end processing from raw radar data to classification 
 # Methodology
 ![image](https://github.com/user-attachments/assets/106a473c-a4f2-404a-be82-c4ca6b9ba9ce)
 
-Signal Processing Pipeline
+## Reference Video
+
+For a better understanding of the overall approach and implementation, please refer to the following video:
+
+👉 **[Video Tutorial](https://youtu.be/qA45nowuTIM?si=0VgEUVd2Js-23mKl)**
+
+**Note:** The final implementation in this repository may not exactly match the one demonstrated in the video. However, the project is largely inspired by the concepts and methodology presented there, and the video can be used as a helpful resource for understanding the underlying ideas and workflow.
+
+## Signal Processing Pipeline
 
 Preprocessing: Downsampling, resampling, and low-pass filtering
 
